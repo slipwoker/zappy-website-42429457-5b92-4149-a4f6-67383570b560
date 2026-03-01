@@ -1,0 +1,75 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מאפייה ביתית המתמחה בעוגות מעוצבות ועוגיות מיוחדות. כל יצירה מוכנה באהבה ובתשומת לב לפרטים הקטנים. גלו את הקסם של אפייה אמיתית!
+
+### אודות
+https://example.com/about
+נוישקה נולדה מאהבה לאפייה ורצון להפוך כל אירוע למיוחד. הכירו את הערכים, המסורת והתשוקה שמניעים אותנו ליצור מאפים שלא תשכחו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - נוישקה
+
+### צור קשר
+https://example.com/contact
+מוכנים להפתיע את האורחים? צרו קשר עכשיו להזמנת עוגות מעוצבות ועוגיות ייחודיות. נשמח לייצר עבורכם את המאפה המושלם לכל חגיגה!
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - נוישקה
+
+### Category
+https://example.com/category/:slug
+מוצרים - נוישקה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
